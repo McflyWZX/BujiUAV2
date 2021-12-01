@@ -113,10 +113,10 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.15239999999999998,
+        "min_through_hole_diameter": 0.20065999999999998,
         "min_track_width": 0.1016,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.2413,
+        "min_via_annular_width": 0.08889999999999999,
+        "min_via_diameter": 0.37845999999999996,
         "use_height_for_length_calcs": true
       },
       "track_widths": [
@@ -129,6 +129,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.37846,
+          "drill": 0.20066
         },
         {
           "diameter": 0.381,
@@ -523,8 +527,8 @@
         "pcb_color": "rgb(255, 252, 136)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1016,
-        "via_diameter": 0.381,
-        "via_drill": 0.2032,
+        "via_diameter": 0.2286,
+        "via_drill": 0.20066,
         "wire_width": 6.0
       },
       {
@@ -553,8 +557,8 @@
         "pcb_color": "rgb(240, 100, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1016,
-        "via_diameter": 0.381,
-        "via_drill": 0.2032,
+        "via_diameter": 0.2286,
+        "via_drill": 0.20066,
         "wire_width": 6.0
       },
       {
@@ -583,8 +587,8 @@
         "pcb_color": "rgb(183, 64, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1016,
-        "via_diameter": 0.381,
-        "via_drill": 0.2032,
+        "via_diameter": 0.2286,
+        "via_drill": 0.20066,
         "wire_width": 6.0
       },
       {
@@ -613,8 +617,8 @@
         "pcb_color": "rgb(109, 68, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1016,
-        "via_diameter": 0.381,
-        "via_drill": 0.2032,
+        "via_diameter": 0.2286,
+        "via_drill": 0.20066,
         "wire_width": 6.0
       },
       {
@@ -643,8 +647,8 @@
         "pcb_color": "rgb(54, 170, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1016,
-        "via_diameter": 0.381,
-        "via_drill": 0.2032,
+        "via_diameter": 0.2286,
+        "via_drill": 0.20066,
         "wire_width": 6.0
       },
       {
@@ -998,8 +1002,8 @@
         "pcb_color": "rgb(154, 255, 94)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1016,
-        "via_diameter": 0.381,
-        "via_drill": 0.2032,
+        "via_diameter": 0.2286,
+        "via_drill": 0.20066,
         "wire_width": 6.0
       }
     ],
